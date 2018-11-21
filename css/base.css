@@ -1,0 +1,9 @@
+﻿/*base*/
+body,html,div,p,table,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6{margin:0px;padding:0px;}
+ul,ol,li,dl,dt,dd{list-style:none;}
+img,a{border:none;}
+em,i{font-style:normal;}
+a{outline:none;text-decoration:none;-webkit-tap-highlight-color:rgba(255,0,0,0);}
+a:active{opacity:0.85;}
+html,body{font-size:62.5%;font-family:'Noto Sans SC Sliced',sans-serif,"Arial","Helvetica";font-weight:normal;text-shadow:none;width:100%;position:relative;margin:0px;padding:0px;}
+.clear{width:0px;height:0px;font-size:0px;line-height:0px;clear:both;overflow:hidden;}
